@@ -4,7 +4,7 @@
 
 - 🧑‍🎓 I'm a student of **Computer Engineering** at **Universidade Estadual de Feira de Santana - UEFS** and a student of **Systems Development** at **SENAI**.
 - 💻 I'm passionate about **software development** and constantly expanding my knowledge and skills.
-- 🌱 I'm currently learning and gaining more experience in technologies like **Node.js**, **React**, **PHP** and **Next.js**.
+- 🌱 I'm currently learning and gaining more experience in technologies like **Node.js**, **React**, **PHP**, **Laravel** and **Next.js**.
 
 ## Skills
 
