@@ -10,9 +10,9 @@
 
 I have experience with the following programming languages and tools:
 
-- **Languages**: Python, C, C++, Java, JavaScript, TypeScript
-- **Web Development**: HTML, CSS, React, Next.js
-- **Backend Development**: Node.js
+- **Languages**: Python, C, C++, Java, JavaScript, TypeScript, PHP, Laravel
+- **Web Development**: HTML, CSS, React, Next.js, Typescript
+- **Backend Development**: Node.js, Java, PHP, C, C++, Python
 - **Databases**: SQL and NoSQL
 - **APIs**: WhatsApp API, Email API
 
